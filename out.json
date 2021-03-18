@@ -1,0 +1,1637 @@
+{
+    "properties": {
+        "0e1ae494-667c-4aaa-b563-5f489509bc8b": {
+            "id": "0e1ae494-667c-4aaa-b563-5f489509bc8b",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/0e1ae494-667c-4aaa-b563-5f489509bc8b.jpg",
+            "link": "#propertyInfo/0e1ae494-667c-4aaa-b563-5f489509bc8b",
+            "desc": "Sjenica",
+            "price": "1.47",
+            "tradeValue": "0.73",
+            "tiles": 2,
+            "loc": {
+                "long": "19.97469",
+                "lat": "43.347589",
+                "location": "Sjenica, Zlatibor, Serbia"
+            }
+        },
+        "f05590d2-e7a1-4dce-a4ca-89d645c3d816": {
+            "id": "f05590d2-e7a1-4dce-a4ca-89d645c3d816",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/f05590d2-e7a1-4dce-a4ca-89d645c3d816.jpg",
+            "link": "#propertyInfo/f05590d2-e7a1-4dce-a4ca-89d645c3d816",
+            "desc": "Sjenica",
+            "price": "22.72",
+            "tradeValue": "0.73",
+            "tiles": 31,
+            "loc": {
+                "long": "19.974518",
+                "lat": "43.347277",
+                "location": "Sjenica, Zlatibor, Serbia"
+            }
+        },
+        "29e560ea-7a7d-45c3-a5b3-04518460ca08": {
+            "id": "29e560ea-7a7d-45c3-a5b3-04518460ca08",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/29e560ea-7a7d-45c3-a5b3-04518460ca08.jpg",
+            "link": "#propertyInfo/29e560ea-7a7d-45c3-a5b3-04518460ca08",
+            "desc": "Sjenica",
+            "price": "8.06",
+            "tradeValue": "0.73",
+            "tiles": 11,
+            "loc": {
+                "long": "19.957352",
+                "lat": "43.360258",
+                "location": "Sjenica, Zlatibor, Serbia"
+            }
+        },
+        "0f7ea196-a710-4af5-9480-02c36d38bb1e": {
+            "id": "0f7ea196-a710-4af5-9480-02c36d38bb1e",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/0f7ea196-a710-4af5-9480-02c36d38bb1e.jpg",
+            "link": "#propertyInfo/0f7ea196-a710-4af5-9480-02c36d38bb1e",
+            "desc": "Issyk-Kul",
+            "price": "10.01",
+            "tradeValue": "0.56",
+            "tiles": 18,
+            "loc": {
+                "long": "78.165922",
+                "lat": "41.862721",
+                "location": "Issyk-Kul, Kyrgyzstan"
+            }
+        },
+        "56c277bf-4cd3-40b6-b401-cb27a76f96df": {
+            "id": "56c277bf-4cd3-40b6-b401-cb27a76f96df",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/56c277bf-4cd3-40b6-b401-cb27a76f96df.jpg",
+            "link": "#propertyInfo/56c277bf-4cd3-40b6-b401-cb27a76f96df",
+            "desc": "Issyk-Kul",
+            "price": "4.45",
+            "tradeValue": "0.56",
+            "tiles": 8,
+            "loc": {
+                "long": "78.164721",
+                "lat": "41.862657",
+                "location": "Issyk-Kul, Kyrgyzstan"
+            }
+        },
+        "7a436b25-4fb3-48b8-b151-e08e72e77845": {
+            "id": "7a436b25-4fb3-48b8-b151-e08e72e77845",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/7a436b25-4fb3-48b8-b151-e08e72e77845.jpg",
+            "link": "#propertyInfo/7a436b25-4fb3-48b8-b151-e08e72e77845",
+            "desc": "Issyk-Kul",
+            "price": "7.78",
+            "tradeValue": "0.56",
+            "tiles": 14,
+            "loc": {
+                "long": "78.165235",
+                "lat": "41.863872",
+                "location": "Issyk-Kul, Kyrgyzstan"
+            }
+        },
+        "f6aa1221-610f-4a56-b2de-6c77545008c3": {
+            "id": "f6aa1221-610f-4a56-b2de-6c77545008c3",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/f6aa1221-610f-4a56-b2de-6c77545008c3.jpg",
+            "link": "#propertyInfo/f6aa1221-610f-4a56-b2de-6c77545008c3",
+            "desc": "Antarctica",
+            "price": "1.48",
+            "tradeValue": "1.48",
+            "tiles": 1,
+            "loc": {
+                "long": "-0.016479",
+                "lat": "-72.810342",
+                "location": "Antarctica"
+            }
+        },
+        "abadd50b-b36f-4cf3-b4e8-e44c0cfa5c99": {
+            "id": "abadd50b-b36f-4cf3-b4e8-e44c0cfa5c99",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/abadd50b-b36f-4cf3-b4e8-e44c0cfa5c99.jpg",
+            "link": "#propertyInfo/abadd50b-b36f-4cf3-b4e8-e44c0cfa5c99",
+            "desc": "Antarctica",
+            "price": "10.35",
+            "tradeValue": "1.48",
+            "tiles": 7,
+            "loc": {
+                "long": "-0.016136",
+                "lat": "-72.810063",
+                "location": "Antarctica"
+            }
+        },
+        "0814c28e-3f58-4bf3-a958-8e6889cb57a9": {
+            "id": "0814c28e-3f58-4bf3-a958-8e6889cb57a9",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/0814c28e-3f58-4bf3-a958-8e6889cb57a9.jpg",
+            "link": "#propertyInfo/0814c28e-3f58-4bf3-a958-8e6889cb57a9",
+            "desc": "Antarctica",
+            "price": "32.52",
+            "tradeValue": "1.48",
+            "tiles": 22,
+            "loc": {
+                "long": "-0.015364",
+                "lat": "-72.80608",
+                "location": "Antarctica"
+            }
+        },
+        "228a8eb1-7679-4039-94ba-5c02aabf9a8d": {
+            "id": "228a8eb1-7679-4039-94ba-5c02aabf9a8d",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/228a8eb1-7679-4039-94ba-5c02aabf9a8d.jpg",
+            "link": "#propertyInfo/228a8eb1-7679-4039-94ba-5c02aabf9a8d",
+            "desc": "Antarctica",
+            "price": "4.43",
+            "tradeValue": "1.48",
+            "tiles": 3,
+            "loc": {
+                "long": "-0.015793",
+                "lat": "-72.813893",
+                "location": "Antarctica"
+            }
+        },
+        "eeb069cc-5012-41c5-8d4d-b734a2ba176e": {
+            "id": "eeb069cc-5012-41c5-8d4d-b734a2ba176e",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/eeb069cc-5012-41c5-8d4d-b734a2ba176e.jpg",
+            "link": "#propertyInfo/eeb069cc-5012-41c5-8d4d-b734a2ba176e",
+            "desc": "Antarctica",
+            "price": "20.69",
+            "tradeValue": "1.48",
+            "tiles": 14,
+            "loc": {
+                "long": "-0.009527",
+                "lat": "-72.811357",
+                "location": "Antarctica"
+            }
+        },
+        "d5a40f4f-2d45-43e7-9937-16504d32245e": {
+            "id": "d5a40f4f-2d45-43e7-9937-16504d32245e",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/d5a40f4f-2d45-43e7-9937-16504d32245e.jpg",
+            "link": "#propertyInfo/d5a40f4f-2d45-43e7-9937-16504d32245e",
+            "desc": "Antarctica - TheGuy",
+            "price": "99.03",
+            "tradeValue": "1.48",
+            "tiles": 67,
+            "loc": {
+                "long": "0.014677",
+                "lat": "-72.815212",
+                "location": "Antarctica"
+            }
+        },
+        "b3faf5f8-c43e-41f1-9f16-321b0d2345fb": {
+            "id": "b3faf5f8-c43e-41f1-9f16-321b0d2345fb",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/b3faf5f8-c43e-41f1-9f16-321b0d2345fb.jpg",
+            "link": "#propertyInfo/b3faf5f8-c43e-41f1-9f16-321b0d2345fb",
+            "desc": "Antarctica",
+            "price": "50.25",
+            "tradeValue": "1.48",
+            "tiles": 34,
+            "loc": {
+                "long": "0.026436",
+                "lat": "-72.823704",
+                "location": "Antarctica"
+            }
+        },
+        "d6bfc9fd-ba81-4882-835d-9da93ac07105": {
+            "id": "d6bfc9fd-ba81-4882-835d-9da93ac07105",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/d6bfc9fd-ba81-4882-835d-9da93ac07105.jpg",
+            "link": "#propertyInfo/d6bfc9fd-ba81-4882-835d-9da93ac07105",
+            "desc": "Antarctica",
+            "price": "29.56",
+            "tradeValue": "1.48",
+            "tiles": 20,
+            "loc": {
+                "long": "0.02429",
+                "lat": "-72.820156",
+                "location": "Antarctica"
+            }
+        },
+        "82068de0-8675-4165-a75d-d8c0c758b6c3": {
+            "id": "82068de0-8675-4165-a75d-d8c0c758b6c3",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/82068de0-8675-4165-a75d-d8c0c758b6c3.jpg",
+            "link": "#propertyInfo/82068de0-8675-4165-a75d-d8c0c758b6c3",
+            "desc": "Antarctica",
+            "price": "19.21",
+            "tradeValue": "1.48",
+            "tiles": 13,
+            "loc": {
+                "long": "0.023775",
+                "lat": "-72.820358",
+                "location": "Antarctica"
+            }
+        },
+        "aaa57dcb-9eac-4ce2-b72b-c2b599441f28": {
+            "id": "aaa57dcb-9eac-4ce2-b72b-c2b599441f28",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/aaa57dcb-9eac-4ce2-b72b-c2b599441f28.jpg",
+            "link": "#propertyInfo/aaa57dcb-9eac-4ce2-b72b-c2b599441f28",
+            "desc": "Fogarty",
+            "price": "0.48",
+            "tradeValue": "0.48",
+            "tiles": 1,
+            "loc": {
+                "long": "-62.215233",
+                "lat": "16.780712",
+                "location": "Fogarty, Saint Peter, Saint Peter, Montserrat"
+            }
+        },
+        "5e17a3ec-09ea-4ff6-a6af-d262bbb69fc0": {
+            "id": "5e17a3ec-09ea-4ff6-a6af-d262bbb69fc0",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/5e17a3ec-09ea-4ff6-a6af-d262bbb69fc0.jpg",
+            "link": "#propertyInfo/5e17a3ec-09ea-4ff6-a6af-d262bbb69fc0",
+            "desc": "Fogarty",
+            "price": "0.48",
+            "tradeValue": "0.48",
+            "tiles": 1,
+            "loc": {
+                "long": "-62.214031",
+                "lat": "16.780876",
+                "location": "Fogarty, Saint Peter, Saint Peter, Montserrat"
+            }
+        },
+        "9aa4a0a8-a811-4e93-a01e-fa92ebece19c": {
+            "id": "9aa4a0a8-a811-4e93-a01e-fa92ebece19c",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/9aa4a0a8-a811-4e93-a01e-fa92ebece19c.jpg",
+            "link": "#propertyInfo/9aa4a0a8-a811-4e93-a01e-fa92ebece19c",
+            "desc": "Fogarty",
+            "price": "4.32",
+            "tradeValue": "0.48",
+            "tiles": 9,
+            "loc": {
+                "long": "-62.214374",
+                "lat": "16.781451",
+                "location": "Fogarty, Saint Peter, Saint Peter, Montserrat"
+            }
+        },
+        "47d9037b-4a74-434e-8d4e-99372c7fb8e7": {
+            "id": "47d9037b-4a74-434e-8d4e-99372c7fb8e7",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/47d9037b-4a74-434e-8d4e-99372c7fb8e7.jpg",
+            "link": "#propertyInfo/47d9037b-4a74-434e-8d4e-99372c7fb8e7",
+            "desc": "Geita",
+            "price": "2.57",
+            "tradeValue": "1.29",
+            "tiles": 2,
+            "loc": {
+                "long": "31.793489",
+                "lat": "-2.450405",
+                "location": "Geita, Tanzania"
+            }
+        },
+        "928d0c18-9666-48c5-a7f3-185a92539992": {
+            "id": "928d0c18-9666-48c5-a7f3-185a92539992",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/928d0c18-9666-48c5-a7f3-185a92539992.jpg",
+            "link": "#propertyInfo/928d0c18-9666-48c5-a7f3-185a92539992",
+            "desc": "Geita",
+            "price": "30.89",
+            "tradeValue": "1.29",
+            "tiles": 24,
+            "loc": {
+                "long": "31.793318",
+                "lat": "-2.449805",
+                "location": "Geita, Tanzania"
+            }
+        },
+        "5120cff8-4835-41e5-b587-130abd7b4b13": {
+            "id": "5120cff8-4835-41e5-b587-130abd7b4b13",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/5120cff8-4835-41e5-b587-130abd7b4b13.jpg",
+            "link": "#propertyInfo/5120cff8-4835-41e5-b587-130abd7b4b13",
+            "desc": "Fogarty",
+            "price": "6.24",
+            "tradeValue": "0.48",
+            "tiles": 13,
+            "loc": {
+                "long": "-62.215404",
+                "lat": "16.781369",
+                "location": "Fogarty, Saint Peter, Saint Peter, Montserrat"
+            }
+        },
+        "262710cf-443b-4291-9e72-50102618b7f8": {
+            "id": "262710cf-443b-4291-9e72-50102618b7f8",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/262710cf-443b-4291-9e72-50102618b7f8.jpg",
+            "link": "#propertyInfo/262710cf-443b-4291-9e72-50102618b7f8",
+            "desc": "Tortola",
+            "price": "18.14",
+            "tradeValue": "0.65",
+            "tiles": 28,
+            "loc": {
+                "long": "-64.602356",
+                "lat": "18.423837",
+                "location": "Tortola, British Virgin Islands"
+            }
+        },
+        "3fd68829-5ca4-41ae-b33c-dab1ff2dcf6a": {
+            "id": "3fd68829-5ca4-41ae-b33c-dab1ff2dcf6a",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/3fd68829-5ca4-41ae-b33c-dab1ff2dcf6a.jpg",
+            "link": "#propertyInfo/3fd68829-5ca4-41ae-b33c-dab1ff2dcf6a",
+            "desc": "Bangoua Kouni",
+            "price": "1.51",
+            "tradeValue": "0.50",
+            "tiles": 3,
+            "loc": {
+                "long": "43.360462",
+                "lat": "-11.37032",
+                "location": "Bangoua Kouni, Grande Comore, Comoros"
+            }
+        },
+        "fcd13516-8923-4cff-81d7-29ef8f8079af": {
+            "id": "fcd13516-8923-4cff-81d7-29ef8f8079af",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/fcd13516-8923-4cff-81d7-29ef8f8079af.jpg",
+            "link": "#propertyInfo/fcd13516-8923-4cff-81d7-29ef8f8079af",
+            "desc": "Bangoua Kouni",
+            "price": "24.10",
+            "tradeValue": "0.50",
+            "tiles": 48,
+            "loc": {
+                "long": "43.359861",
+                "lat": "-11.369899",
+                "location": "Bangoua Kouni, Grande Comore, Comoros"
+            }
+        },
+        "f1772f93-7873-455f-a3d6-02ff4853c492": {
+            "id": "f1772f93-7873-455f-a3d6-02ff4853c492",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/f1772f93-7873-455f-a3d6-02ff4853c492.jpg",
+            "link": "#propertyInfo/f1772f93-7873-455f-a3d6-02ff4853c492",
+            "desc": "Norfolk Island",
+            "price": "1.00",
+            "tradeValue": "1.00",
+            "tiles": 1,
+            "loc": {
+                "long": "167.927227",
+                "lat": "-29.008441",
+                "location": "Norfolk Island"
+            }
+        },
+        "dda3f887-561d-490f-8d92-636c2204e8b1": {
+            "id": "dda3f887-561d-490f-8d92-636c2204e8b1",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/dda3f887-561d-490f-8d92-636c2204e8b1.jpg",
+            "link": "#propertyInfo/dda3f887-561d-490f-8d92-636c2204e8b1",
+            "desc": "Norfolk Island",
+            "price": "8.00",
+            "tradeValue": "1.00",
+            "tiles": 8,
+            "loc": {
+                "long": "167.927313",
+                "lat": "-29.008065",
+                "location": "Norfolk Island"
+            }
+        },
+        "26512bf7-6cf0-48c0-9287-5767e4f1e667": {
+            "id": "26512bf7-6cf0-48c0-9287-5767e4f1e667",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/26512bf7-6cf0-48c0-9287-5767e4f1e667.jpg",
+            "link": "#propertyInfo/26512bf7-6cf0-48c0-9287-5767e4f1e667",
+            "desc": "Midlands",
+            "price": "1.96",
+            "tradeValue": "0.65",
+            "tiles": 3,
+            "loc": {
+                "long": "29.935169",
+                "lat": "-19.197215",
+                "location": "Midlands, Zimbabwe"
+            }
+        },
+        "1cf697ae-31e8-4116-9957-8cad11a0cb35": {
+            "id": "1cf697ae-31e8-4116-9957-8cad11a0cb35",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/1cf697ae-31e8-4116-9957-8cad11a0cb35.jpg",
+            "link": "#propertyInfo/1cf697ae-31e8-4116-9957-8cad11a0cb35",
+            "desc": "Bangkok Noi",
+            "price": "27.30",
+            "tradeValue": "2.73",
+            "tiles": 10,
+            "loc": {
+                "long": "100.475549",
+                "lat": "13.778234",
+                "location": "Bangkok Noi, Bangkok, Bangkok, Thailand"
+            }
+        },
+        "c5a5cc89-990f-4c59-946d-d0066346241d": {
+            "id": "c5a5cc89-990f-4c59-946d-d0066346241d",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/c5a5cc89-990f-4c59-946d-d0066346241d.jpg",
+            "link": "#propertyInfo/c5a5cc89-990f-4c59-946d-d0066346241d",
+            "desc": "Norfolk Island",
+            "price": "31.00",
+            "tradeValue": "1.00",
+            "tiles": 31,
+            "loc": {
+                "long": "167.926712",
+                "lat": "-29.00814",
+                "location": "Norfolk Island"
+            }
+        },
+        "fb8775db-d78f-48f1-959f-a0eb5062b372": {
+            "id": "fb8775db-d78f-48f1-959f-a0eb5062b372",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/fb8775db-d78f-48f1-959f-a0eb5062b372.jpg",
+            "link": "#propertyInfo/fb8775db-d78f-48f1-959f-a0eb5062b372",
+            "desc": "Centrale",
+            "price": "7.20",
+            "tradeValue": "0.60",
+            "tiles": 12,
+            "loc": {
+                "long": "1.035633",
+                "lat": "8.761665",
+                "location": "Centrale, Togo"
+            }
+        },
+        "a2a473f7-9a7b-4901-8198-8edbc8503a58": {
+            "id": "a2a473f7-9a7b-4901-8198-8edbc8503a58",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/a2a473f7-9a7b-4901-8198-8edbc8503a58.jpg",
+            "link": "#propertyInfo/a2a473f7-9a7b-4901-8198-8edbc8503a58",
+            "desc": "Centrale",
+            "price": "130.20",
+            "tradeValue": "0.60",
+            "tiles": 217,
+            "loc": {
+                "long": "1.03529",
+                "lat": "8.760139",
+                "location": "Centrale, Togo"
+            }
+        },
+        "3e9a343c-e52b-4ce5-86fd-338938251e07": {
+            "id": "3e9a343c-e52b-4ce5-86fd-338938251e07",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/3e9a343c-e52b-4ce5-86fd-338938251e07.jpg",
+            "link": "#propertyInfo/3e9a343c-e52b-4ce5-86fd-338938251e07",
+            "desc": "与那国町",
+            "price": "55.17",
+            "tradeValue": "6.13",
+            "tiles": 9,
+            "loc": {
+                "long": "123.001213",
+                "lat": "24.471994",
+                "location": "与那国町, 八重山郡, Okinawa, Japan"
+            }
+        },
+        "15027b4a-1e8b-489a-b93a-ed64b830a14e": {
+            "id": "15027b4a-1e8b-489a-b93a-ed64b830a14e",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/15027b4a-1e8b-489a-b93a-ed64b830a14e.jpg",
+            "link": "#propertyInfo/15027b4a-1e8b-489a-b93a-ed64b830a14e",
+            "desc": "Pohnpei",
+            "price": "64.55",
+            "tradeValue": "0.49",
+            "tiles": 132,
+            "loc": {
+                "long": "158.295822",
+                "lat": "6.83755",
+                "location": "Pohnpei, Micronesia"
+            }
+        },
+        "1f0c9413-d891-4d0d-8d2d-d87cece1fda7": {
+            "id": "1f0c9413-d891-4d0d-8d2d-d87cece1fda7",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/1f0c9413-d891-4d0d-8d2d-d87cece1fda7.jpg",
+            "link": "#propertyInfo/1f0c9413-d891-4d0d-8d2d-d87cece1fda7",
+            "desc": "Singapore",
+            "price": "79.02",
+            "tradeValue": "2.82",
+            "tiles": 28,
+            "loc": {
+                "long": "103.808527",
+                "lat": "1.337978",
+                "location": "Singapore, Central, Singapore"
+            }
+        },
+        "a154e2db-cef2-4fe2-8c22-56fa324e0c35": {
+            "id": "a154e2db-cef2-4fe2-8c22-56fa324e0c35",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/a154e2db-cef2-4fe2-8c22-56fa324e0c35.jpg",
+            "link": "#propertyInfo/a154e2db-cef2-4fe2-8c22-56fa324e0c35",
+            "desc": "Ekono",
+            "price": "53.80",
+            "tradeValue": "0.54",
+            "tiles": 100,
+            "loc": {
+                "long": "12.205554",
+                "lat": "4.810128",
+                "location": "Ekono, Centre, Cameroon"
+            }
+        },
+        "23dfd789-2949-4833-b5a7-05c851b917bf": {
+            "id": "23dfd789-2949-4833-b5a7-05c851b917bf",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/23dfd789-2949-4833-b5a7-05c851b917bf.jpg",
+            "link": "#propertyInfo/23dfd789-2949-4833-b5a7-05c851b917bf",
+            "desc": "Centre",
+            "price": "83.93",
+            "tradeValue": "0.54",
+            "tiles": 156,
+            "loc": {
+                "long": "12.223578",
+                "lat": "4.811154",
+                "location": "Centre, Cameroon"
+            }
+        },
+        "aec7e00d-cb96-430b-bf54-e30868866165": {
+            "id": "aec7e00d-cb96-430b-bf54-e30868866165",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/aec7e00d-cb96-430b-bf54-e30868866165.jpg",
+            "link": "#propertyInfo/aec7e00d-cb96-430b-bf54-e30868866165",
+            "desc": "San Lorenzo",
+            "price": "18.16",
+            "tradeValue": "2.02",
+            "tiles": 9,
+            "loc": {
+                "long": "121.013031",
+                "lat": "14.558829",
+                "location": "San Lorenzo, Makati, Philippines"
+            }
+        },
+        "d7ff2b83-208a-48a3-b205-14e9d5f70529": {
+            "id": "d7ff2b83-208a-48a3-b205-14e9d5f70529",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/d7ff2b83-208a-48a3-b205-14e9d5f70529.jpg",
+            "link": "#propertyInfo/d7ff2b83-208a-48a3-b205-14e9d5f70529",
+            "desc": "Barangay 815",
+            "price": "2.02",
+            "tradeValue": "2.02",
+            "tiles": 1,
+            "loc": {
+                "long": "120.998096",
+                "lat": "14.581756",
+                "location": "Barangay 815, Manila, Philippines"
+            }
+        },
+        "596a5c36-53ce-4a38-9643-bcfc3aa5f137": {
+            "id": "596a5c36-53ce-4a38-9643-bcfc3aa5f137",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/596a5c36-53ce-4a38-9643-bcfc3aa5f137.jpg",
+            "link": "#propertyInfo/596a5c36-53ce-4a38-9643-bcfc3aa5f137",
+            "desc": "Barangay 824",
+            "price": "32.29",
+            "tradeValue": "2.02",
+            "tiles": 16,
+            "loc": {
+                "long": "120.997924",
+                "lat": "14.58184",
+                "location": "Barangay 824, Manila, Philippines"
+            }
+        },
+        "847ee616-f081-430c-9073-a96dd8c3a7b3": {
+            "id": "847ee616-f081-430c-9073-a96dd8c3a7b3",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/847ee616-f081-430c-9073-a96dd8c3a7b3.jpg",
+            "link": "#propertyInfo/847ee616-f081-430c-9073-a96dd8c3a7b3",
+            "desc": "Суринда",
+            "price": "33.66",
+            "tradeValue": "3.74",
+            "tiles": 9,
+            "loc": {
+                "long": "96.670761",
+                "lat": "61.99083",
+                "location": "Суринда, Эвенкийский район, Krasnoyarsk Krai, Russia"
+            }
+        },
+        "5148e5d9-ddf9-46a1-af15-845e66b61df1": {
+            "id": "5148e5d9-ddf9-46a1-af15-845e66b61df1",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/5148e5d9-ddf9-46a1-af15-845e66b61df1.jpg",
+            "link": "#propertyInfo/5148e5d9-ddf9-46a1-af15-845e66b61df1",
+            "desc": "Espargos",
+            "price": "60.90",
+            "tradeValue": "0.61",
+            "tiles": 100,
+            "loc": {
+                "long": "-22.937822",
+                "lat": "16.7637",
+                "location": "Espargos, Sal, Cape Verde"
+            }
+        },
+        "f915e50b-4d44-48f3-9f80-1484ae050e52": {
+            "id": "f915e50b-4d44-48f3-9f80-1484ae050e52",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/f915e50b-4d44-48f3-9f80-1484ae050e52.jpg",
+            "link": "#propertyInfo/f915e50b-4d44-48f3-9f80-1484ae050e52",
+            "desc": "Sal",
+            "price": "45.67",
+            "tradeValue": "0.61",
+            "tiles": 75,
+            "loc": {
+                "long": "-22.942629",
+                "lat": "16.733455",
+                "location": "Sal, Cape Verde"
+            }
+        },
+        "910e9989-cd2d-4f92-8439-116af24828f2": {
+            "id": "910e9989-cd2d-4f92-8439-116af24828f2",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/910e9989-cd2d-4f92-8439-116af24828f2.jpg",
+            "link": "#propertyInfo/910e9989-cd2d-4f92-8439-116af24828f2",
+            "desc": "Boa Vista",
+            "price": "92.57",
+            "tradeValue": "0.61",
+            "tiles": 152,
+            "loc": {
+                "long": "-22.895508",
+                "lat": "16.217724",
+                "location": "Boa Vista, Cape Verde"
+            }
+        },
+        "b5799667-20c8-4df2-9ed4-078281e5f138": {
+            "id": "b5799667-20c8-4df2-9ed4-078281e5f138",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/b5799667-20c8-4df2-9ed4-078281e5f138.jpg",
+            "link": "#propertyInfo/b5799667-20c8-4df2-9ed4-078281e5f138",
+            "desc": "Prampir Meakkakra",
+            "price": "0.70",
+            "tradeValue": "0.70",
+            "tiles": 1,
+            "loc": {
+                "long": "104.908962",
+                "lat": "11.558239",
+                "location": "Prampir Meakkakra, Phnom Penh, Cambodia"
+            }
+        },
+        "86a44c89-f170-40f3-90b4-dec30aa73a35": {
+            "id": "86a44c89-f170-40f3-90b4-dec30aa73a35",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/86a44c89-f170-40f3-90b4-dec30aa73a35.jpg",
+            "link": "#propertyInfo/86a44c89-f170-40f3-90b4-dec30aa73a35",
+            "desc": "Prampir Meakkakra",
+            "price": "0.70",
+            "tradeValue": "0.70",
+            "tiles": 1,
+            "loc": {
+                "long": "104.909306",
+                "lat": "11.558576",
+                "location": "Prampir Meakkakra, Phnom Penh, Cambodia"
+            }
+        },
+        "e6c1b5f0-25ac-45e5-b8fc-bb7270e1e3a0": {
+            "id": "e6c1b5f0-25ac-45e5-b8fc-bb7270e1e3a0",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/e6c1b5f0-25ac-45e5-b8fc-bb7270e1e3a0.jpg",
+            "link": "#propertyInfo/e6c1b5f0-25ac-45e5-b8fc-bb7270e1e3a0",
+            "desc": "Khlong Toei",
+            "price": "2.73",
+            "tradeValue": "2.73",
+            "tiles": 1,
+            "loc": {
+                "long": "100.561123",
+                "lat": "13.735216",
+                "location": "Khlong Toei, Bangkok, Bangkok, Thailand"
+            }
+        },
+        "18804816-6765-4d7b-97e6-6513a68cd9a7": {
+            "id": "18804816-6765-4d7b-97e6-6513a68cd9a7",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/18804816-6765-4d7b-97e6-6513a68cd9a7.jpg",
+            "link": "#propertyInfo/18804816-6765-4d7b-97e6-6513a68cd9a7",
+            "desc": "Khlong Toei",
+            "price": "2.73",
+            "tradeValue": "2.73",
+            "tiles": 1,
+            "loc": {
+                "long": "100.561638",
+                "lat": "13.73605",
+                "location": "Khlong Toei, Bangkok, Bangkok, Thailand"
+            }
+        },
+        "25265382-dc68-4517-b9a6-2dba0689f3d3": {
+            "id": "25265382-dc68-4517-b9a6-2dba0689f3d3",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/25265382-dc68-4517-b9a6-2dba0689f3d3.jpg",
+            "link": "#propertyInfo/25265382-dc68-4517-b9a6-2dba0689f3d3",
+            "desc": "Vadhana",
+            "price": "2.73",
+            "tradeValue": "2.73",
+            "tiles": 1,
+            "loc": {
+                "long": "100.561638",
+                "lat": "13.736384",
+                "location": "Vadhana, Bangkok, Bangkok, Thailand"
+            }
+        },
+        "20463682-a8fd-4d1b-9338-492b66aeaf64": {
+            "id": "20463682-a8fd-4d1b-9338-492b66aeaf64",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/20463682-a8fd-4d1b-9338-492b66aeaf64.jpg",
+            "link": "#propertyInfo/20463682-a8fd-4d1b-9338-492b66aeaf64",
+            "desc": "Ait Sedrate Jbel El Oulia",
+            "price": "142.46",
+            "tradeValue": "1.31",
+            "tiles": 109,
+            "loc": {
+                "long": "-5.896225",
+                "lat": "31.574295",
+                "location": "Ait Sedrate Jbel El Oulia, Drâa-Tafilalet, Morocco"
+            }
+        },
+        "db28ca94-1771-452a-90b8-4b49bc32cf9e": {
+            "id": "db28ca94-1771-452a-90b8-4b49bc32cf9e",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/db28ca94-1771-452a-90b8-4b49bc32cf9e.jpg",
+            "link": "#propertyInfo/db28ca94-1771-452a-90b8-4b49bc32cf9e",
+            "desc": "Saint Lucy",
+            "price": "63.80",
+            "tradeValue": "0.46",
+            "tiles": 139,
+            "loc": {
+                "long": "-59.63748",
+                "lat": "13.322144",
+                "location": "Saint Lucy, Barbados"
+            }
+        },
+        "912fa832-a1c4-4549-8fbc-aab2c0fc5d6f": {
+            "id": "912fa832-a1c4-4549-8fbc-aab2c0fc5d6f",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/912fa832-a1c4-4549-8fbc-aab2c0fc5d6f.jpg",
+            "link": "#propertyInfo/912fa832-a1c4-4549-8fbc-aab2c0fc5d6f",
+            "desc": "Saint Lucy",
+            "price": "3.67",
+            "tradeValue": "0.46",
+            "tiles": 8,
+            "loc": {
+                "long": "-59.628982",
+                "lat": "13.330663",
+                "location": "Saint Lucy, Barbados"
+            }
+        },
+        "3f6a45db-483d-4d80-870d-5b69e54c4666": {
+            "id": "3f6a45db-483d-4d80-870d-5b69e54c4666",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/3f6a45db-483d-4d80-870d-5b69e54c4666.jpg",
+            "link": "#propertyInfo/3f6a45db-483d-4d80-870d-5b69e54c4666",
+            "desc": "Saint Lucy",
+            "price": "5.05",
+            "tradeValue": "0.46",
+            "tiles": 11,
+            "loc": {
+                "long": "-59.614478",
+                "lat": "13.334589",
+                "location": "Saint Lucy, Barbados"
+            }
+        },
+        "43fa534a-c63b-448d-94cf-bf46fd209693": {
+            "id": "43fa534a-c63b-448d-94cf-bf46fd209693",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/43fa534a-c63b-448d-94cf-bf46fd209693.jpg",
+            "link": "#propertyInfo/43fa534a-c63b-448d-94cf-bf46fd209693",
+            "desc": "Saint Lucy",
+            "price": "1.38",
+            "tradeValue": "0.46",
+            "tiles": 3,
+            "loc": {
+                "long": "-59.613276",
+                "lat": "13.334923",
+                "location": "Saint Lucy, Barbados"
+            }
+        },
+        "6751a24f-b0b6-4af7-bc29-2977b658c03f": {
+            "id": "6751a24f-b0b6-4af7-bc29-2977b658c03f",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/6751a24f-b0b6-4af7-bc29-2977b658c03f.jpg",
+            "link": "#propertyInfo/6751a24f-b0b6-4af7-bc29-2977b658c03f",
+            "desc": "Saint Lucy",
+            "price": "0.46",
+            "tradeValue": "0.46",
+            "tiles": 1,
+            "loc": {
+                "long": "-59.604778",
+                "lat": "13.329661",
+                "location": "Saint Lucy, Barbados"
+            }
+        },
+        "60fb53d1-bf82-460e-b964-e4e5e9e5ac95": {
+            "id": "60fb53d1-bf82-460e-b964-e4e5e9e5ac95",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/60fb53d1-bf82-460e-b964-e4e5e9e5ac95.jpg",
+            "link": "#propertyInfo/60fb53d1-bf82-460e-b964-e4e5e9e5ac95",
+            "desc": "Belleplaine",
+            "price": "17.90",
+            "tradeValue": "0.46",
+            "tiles": 39,
+            "loc": {
+                "long": "-59.560662",
+                "lat": "13.253397",
+                "location": "Belleplaine, Saint Andrew, Barbados"
+            }
+        },
+        "af4dbf0d-5090-464b-aba2-a9e0ed73d45c": {
+            "id": "af4dbf0d-5090-464b-aba2-a9e0ed73d45c",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/af4dbf0d-5090-464b-aba2-a9e0ed73d45c.jpg",
+            "link": "#propertyInfo/af4dbf0d-5090-464b-aba2-a9e0ed73d45c",
+            "desc": "Lemon Arbour",
+            "price": "78.03",
+            "tradeValue": "0.46",
+            "tiles": 170,
+            "loc": {
+                "long": "-59.522724",
+                "lat": "13.172512",
+                "location": "Lemon Arbour, Saint John, Barbados"
+            }
+        },
+        "ff2dde4b-8e9d-4f5a-b162-eb0fdb202e03": {
+            "id": "ff2dde4b-8e9d-4f5a-b162-eb0fdb202e03",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/ff2dde4b-8e9d-4f5a-b162-eb0fdb202e03.jpg",
+            "link": "#propertyInfo/ff2dde4b-8e9d-4f5a-b162-eb0fdb202e03",
+            "desc": "Jaba",
+            "price": "65.61",
+            "tradeValue": "0.73",
+            "tiles": 90,
+            "loc": {
+                "long": "8.099756",
+                "lat": "9.589748",
+                "location": "Jaba, Kaduna, Nigeria"
+            }
+        },
+        "120d2343-67b1-4c0a-a762-ae5a895a8320": {
+            "id": "120d2343-67b1-4c0a-a762-ae5a895a8320",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/120d2343-67b1-4c0a-a762-ae5a895a8320.jpg",
+            "link": "#propertyInfo/120d2343-67b1-4c0a-a762-ae5a895a8320",
+            "desc": "Jaba",
+            "price": "96.23",
+            "tradeValue": "0.73",
+            "tiles": 132,
+            "loc": {
+                "long": "8.102674",
+                "lat": "9.588902",
+                "location": "Jaba, Kaduna, Nigeria"
+            }
+        },
+        "81d936d7-8e6d-4c6b-ace9-e6ef4dba0dd2": {
+            "id": "81d936d7-8e6d-4c6b-ace9-e6ef4dba0dd2",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/81d936d7-8e6d-4c6b-ace9-e6ef4dba0dd2.jpg",
+            "link": "#propertyInfo/81d936d7-8e6d-4c6b-ace9-e6ef4dba0dd2",
+            "desc": "São Félix Do Xingu",
+            "price": "15.91",
+            "tradeValue": "3.18",
+            "tiles": 5,
+            "loc": {
+                "long": "-51.618662",
+                "lat": "-9.594149",
+                "location": "São Félix Do Xingu, Pará, Brazil"
+            }
+        },
+        "5a2fa88f-95b3-4551-a67e-64606cae81f3": {
+            "id": "5a2fa88f-95b3-4551-a67e-64606cae81f3",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/5a2fa88f-95b3-4551-a67e-64606cae81f3.jpg",
+            "link": "#propertyInfo/5a2fa88f-95b3-4551-a67e-64606cae81f3",
+            "desc": "São Félix Do Xingu",
+            "price": "57.26",
+            "tradeValue": "3.18",
+            "tiles": 18,
+            "loc": {
+                "long": "-51.616516",
+                "lat": "-9.594064",
+                "location": "São Félix Do Xingu, Pará, Brazil"
+            }
+        },
+        "ad52efb2-63e3-4951-b90d-5b35a360429e": {
+            "id": "ad52efb2-63e3-4951-b90d-5b35a360429e",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/ad52efb2-63e3-4951-b90d-5b35a360429e.jpg",
+            "link": "#propertyInfo/ad52efb2-63e3-4951-b90d-5b35a360429e",
+            "desc": "São Félix Do Xingu",
+            "price": "114.52",
+            "tradeValue": "3.18",
+            "tiles": 36,
+            "loc": {
+                "long": "-51.617803",
+                "lat": "-9.594656",
+                "location": "São Félix Do Xingu, Pará, Brazil"
+            }
+        },
+        "20b38f33-b5cc-4f27-ad86-d713229562fd": {
+            "id": "20b38f33-b5cc-4f27-ad86-d713229562fd",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/20b38f33-b5cc-4f27-ad86-d713229562fd.jpg",
+            "link": "#propertyInfo/20b38f33-b5cc-4f27-ad86-d713229562fd",
+            "desc": "Chamkar Mon",
+            "price": "15.33",
+            "tradeValue": "0.70",
+            "tiles": 22,
+            "loc": {
+                "long": "104.921666",
+                "lat": "11.548317",
+                "location": "Chamkar Mon, Phnom Penh, Cambodia"
+            }
+        },
+        "5aa18563-4cd8-4b37-ad59-fc86fda2f9f0": {
+            "id": "5aa18563-4cd8-4b37-ad59-fc86fda2f9f0",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/5aa18563-4cd8-4b37-ad59-fc86fda2f9f0.jpg",
+            "link": "#propertyInfo/5aa18563-4cd8-4b37-ad59-fc86fda2f9f0",
+            "desc": "Prampir Meakkakra",
+            "price": "0.70",
+            "tradeValue": "0.70",
+            "tiles": 1,
+            "loc": {
+                "long": "104.911194",
+                "lat": "11.558239",
+                "location": "Prampir Meakkakra, Phnom Penh, Cambodia"
+            }
+        },
+        "672e5728-9bbe-4260-b152-691a610e8bfe": {
+            "id": "672e5728-9bbe-4260-b152-691a610e8bfe",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/672e5728-9bbe-4260-b152-691a610e8bfe.jpg",
+            "link": "#propertyInfo/672e5728-9bbe-4260-b152-691a610e8bfe",
+            "desc": "Prampir Meakkakra",
+            "price": "1.39",
+            "tradeValue": "0.70",
+            "tiles": 2,
+            "loc": {
+                "long": "104.911194",
+                "lat": "11.558492",
+                "location": "Prampir Meakkakra, Phnom Penh, Cambodia"
+            }
+        },
+        "a6b45b0d-e547-4289-8a71-ea6b68d1243e": {
+            "id": "a6b45b0d-e547-4289-8a71-ea6b68d1243e",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/a6b45b0d-e547-4289-8a71-ea6b68d1243e.jpg",
+            "link": "#propertyInfo/a6b45b0d-e547-4289-8a71-ea6b68d1243e",
+            "desc": "渋谷区",
+            "price": "12.26",
+            "tradeValue": "6.13",
+            "tiles": 2,
+            "loc": {
+                "long": "139.694509",
+                "lat": "35.662666",
+                "location": "渋谷区, 東京都, Tokyo Prefecture, Japan"
+            }
+        },
+        "e7777ab6-1835-4f88-925c-1633985eeb36": {
+            "id": "e7777ab6-1835-4f88-925c-1633985eeb36",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/e7777ab6-1835-4f88-925c-1633985eeb36.jpg",
+            "link": "#propertyInfo/e7777ab6-1835-4f88-925c-1633985eeb36",
+            "desc": "Petaling Jaya",
+            "price": "26.43",
+            "tradeValue": "1.56",
+            "tiles": 17,
+            "loc": {
+                "long": "101.616583",
+                "lat": "3.145402",
+                "location": "Petaling Jaya, Selangor, Malaysia"
+            }
+        },
+        "8f598001-6d88-4851-aa8a-52d3fc17b706": {
+            "id": "8f598001-6d88-4851-aa8a-52d3fc17b706",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/8f598001-6d88-4851-aa8a-52d3fc17b706.jpg",
+            "link": "#propertyInfo/8f598001-6d88-4851-aa8a-52d3fc17b706",
+            "desc": "Johannesburg",
+            "price": "6.32",
+            "tradeValue": "3.16",
+            "tiles": 2,
+            "loc": {
+                "long": "28.044748",
+                "lat": "-26.188946",
+                "location": "Johannesburg, Johannesburg, Gauteng, South Africa"
+            }
+        },
+        "7bf10e5d-6190-4f42-b78e-305ddbd24e8f": {
+            "id": "7bf10e5d-6190-4f42-b78e-305ddbd24e8f",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/7bf10e5d-6190-4f42-b78e-305ddbd24e8f.jpg",
+            "link": "#propertyInfo/7bf10e5d-6190-4f42-b78e-305ddbd24e8f",
+            "desc": "千代田区",
+            "price": "61.30",
+            "tradeValue": "6.13",
+            "tiles": 10,
+            "loc": {
+                "long": "139.744978",
+                "lat": "35.701638",
+                "location": "千代田区, 東京都, Tokyo Prefecture, Japan"
+            }
+        },
+        "3d0d6da5-0602-4928-8eb4-fa1f20c0e8b3": {
+            "id": "3d0d6da5-0602-4928-8eb4-fa1f20c0e8b3",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/3d0d6da5-0602-4928-8eb4-fa1f20c0e8b3.jpg",
+            "link": "#propertyInfo/3d0d6da5-0602-4928-8eb4-fa1f20c0e8b3",
+            "desc": "千代田区",
+            "price": "79.69",
+            "tradeValue": "6.13",
+            "tiles": 13,
+            "loc": {
+                "long": "139.768238",
+                "lat": "35.690555",
+                "location": "千代田区, 東京都, Tokyo Prefecture, Japan"
+            }
+        },
+        "7ead76ba-9ac6-4453-a059-b0786c7ff001": {
+            "id": "7ead76ba-9ac6-4453-a059-b0786c7ff001",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/7ead76ba-9ac6-4453-a059-b0786c7ff001.jpg",
+            "link": "#propertyInfo/7ead76ba-9ac6-4453-a059-b0786c7ff001",
+            "desc": "Shalidan",
+            "price": "18.27",
+            "tradeValue": "0.73",
+            "tiles": 25,
+            "loc": {
+                "long": "71.789474",
+                "lat": "35.855666",
+                "location": "Shalidan, Khyber Pakhtunkhwa, Pakistan"
+            }
+        },
+        "75985868-863a-4b5b-ba54-716e75ed8434": {
+            "id": "75985868-863a-4b5b-ba54-716e75ed8434",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/75985868-863a-4b5b-ba54-716e75ed8434.jpg",
+            "link": "#propertyInfo/75985868-863a-4b5b-ba54-716e75ed8434",
+            "desc": "صيدا",
+            "price": "20.16",
+            "tradeValue": "0.67",
+            "tiles": 30,
+            "loc": {
+                "long": "35.382414",
+                "lat": "33.560565",
+                "location": "صيدا, South, Lebanon"
+            }
+        },
+        "1bcc7c5d-24aa-48ed-a37f-a4def9f22970": {
+            "id": "1bcc7c5d-24aa-48ed-a37f-a4def9f22970",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/1bcc7c5d-24aa-48ed-a37f-a4def9f22970.jpg",
+            "link": "#propertyInfo/1bcc7c5d-24aa-48ed-a37f-a4def9f22970",
+            "desc": "صيدا",
+            "price": "28.22",
+            "tradeValue": "0.67",
+            "tiles": 42,
+            "loc": {
+                "long": "35.380955",
+                "lat": "33.552053",
+                "location": "صيدا, South, Lebanon"
+            }
+        },
+        "d16a68ee-1bb4-4760-8299-84dbc85b41e4": {
+            "id": "d16a68ee-1bb4-4760-8299-84dbc85b41e4",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/d16a68ee-1bb4-4760-8299-84dbc85b41e4.jpg",
+            "link": "#propertyInfo/d16a68ee-1bb4-4760-8299-84dbc85b41e4",
+            "desc": "הר הזיתים",
+            "price": "800.61",
+            "tradeValue": "6.30",
+            "tiles": 127,
+            "loc": {
+                "long": "35.237789",
+                "lat": "31.782247",
+                "location": "הר הזיתים, Jerusalem"
+            }
+        },
+        "c574db59-3e5e-46d4-abad-0eeee2247a62": {
+            "id": "c574db59-3e5e-46d4-abad-0eeee2247a62",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/c574db59-3e5e-46d4-abad-0eeee2247a62.jpg",
+            "link": "#propertyInfo/c574db59-3e5e-46d4-abad-0eeee2247a62",
+            "desc": "Jerusalem",
+            "price": "498.02",
+            "tradeValue": "6.30",
+            "tiles": 79,
+            "loc": {
+                "long": "35.235043",
+                "lat": "31.770134",
+                "location": "Jerusalem"
+            }
+        },
+        "a4cf4c42-173d-41ea-9b7c-6942d45a4924": {
+            "id": "a4cf4c42-173d-41ea-9b7c-6942d45a4924",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/a4cf4c42-173d-41ea-9b7c-6942d45a4924.jpg",
+            "link": "#propertyInfo/a4cf4c42-173d-41ea-9b7c-6942d45a4924",
+            "desc": "Jerusalem",
+            "price": "63.04",
+            "tradeValue": "6.30",
+            "tiles": 10,
+            "loc": {
+                "long": "35.23015",
+                "lat": "31.771375",
+                "location": "Jerusalem"
+            }
+        },
+        "cf1a0810-31e8-4a31-8338-857d0af848a5": {
+            "id": "cf1a0810-31e8-4a31-8338-857d0af848a5",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/cf1a0810-31e8-4a31-8338-857d0af848a5.jpg",
+            "link": "#propertyInfo/cf1a0810-31e8-4a31-8338-857d0af848a5",
+            "desc": "Jerusalem",
+            "price": "327.81",
+            "tradeValue": "6.30",
+            "tiles": 52,
+            "loc": {
+                "long": "35.22809",
+                "lat": "31.782539",
+                "location": "Jerusalem"
+            }
+        },
+        "02a8bc1c-eefb-470e-a959-169cca58ec01": {
+            "id": "02a8bc1c-eefb-470e-a959-169cca58ec01",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/02a8bc1c-eefb-470e-a959-169cca58ec01.jpg",
+            "link": "#propertyInfo/02a8bc1c-eefb-470e-a959-169cca58ec01",
+            "desc": "Jerusalem",
+            "price": "31.52",
+            "tradeValue": "6.30",
+            "tiles": 5,
+            "loc": {
+                "long": "35.226631",
+                "lat": "31.774586",
+                "location": "Jerusalem, Jerusalem District"
+            }
+        },
+        "bee296bb-16c5-4997-9f3f-1774527e03e3": {
+            "id": "bee296bb-16c5-4997-9f3f-1774527e03e3",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/bee296bb-16c5-4997-9f3f-1774527e03e3.jpg",
+            "link": "#propertyInfo/bee296bb-16c5-4997-9f3f-1774527e03e3",
+            "desc": "Peuplingues",
+            "price": "460.00",
+            "tradeValue": "20.00",
+            "tiles": 23,
+            "loc": {
+                "long": "1.780471",
+                "lat": "50.922731",
+                "location": "Peuplingues, Pas-de-Calais, France"
+            }
+        },
+        "95c09447-af5f-4045-8426-7454b3ff7775": {
+            "id": "95c09447-af5f-4045-8426-7454b3ff7775",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/95c09447-af5f-4045-8426-7454b3ff7775.jpg",
+            "link": "#propertyInfo/95c09447-af5f-4045-8426-7454b3ff7775",
+            "desc": "Bloomsbury",
+            "price": "545.34",
+            "tradeValue": "12.39",
+            "tiles": 44,
+            "loc": {
+                "long": "-0.132094",
+                "lat": "51.518144",
+                "location": "Bloomsbury, London, Greater London, England, United Kingdom"
+            }
+        },
+        "f83dbb02-ebf9-4616-882c-cd49d12a722f": {
+            "id": "f83dbb02-ebf9-4616-882c-cd49d12a722f",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/f83dbb02-ebf9-4616-882c-cd49d12a722f.jpg",
+            "link": "#propertyInfo/f83dbb02-ebf9-4616-882c-cd49d12a722f",
+            "desc": "Holborn",
+            "price": "49.58",
+            "tradeValue": "12.39",
+            "tiles": 4,
+            "loc": {
+                "long": "-0.128489",
+                "lat": "51.514084",
+                "location": "Holborn, London, Greater London, England, United Kingdom"
+            }
+        },
+        "1d31e4c7-231d-40f3-9da2-b647cdc5a094": {
+            "id": "1d31e4c7-231d-40f3-9da2-b647cdc5a094",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/1d31e4c7-231d-40f3-9da2-b647cdc5a094.jpg",
+            "link": "#propertyInfo/1d31e4c7-231d-40f3-9da2-b647cdc5a094",
+            "desc": "St. James's",
+            "price": "37.18",
+            "tradeValue": "12.39",
+            "tiles": 3,
+            "loc": {
+                "long": "-0.11879",
+                "lat": "51.511627",
+                "location": "St. James's, London, Greater London, England, United Kingdom"
+            }
+        },
+        "4e845225-8b99-4d3e-a98e-c4f82e80048d": {
+            "id": "4e845225-8b99-4d3e-a98e-c4f82e80048d",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/4e845225-8b99-4d3e-a98e-c4f82e80048d.jpg",
+            "link": "#propertyInfo/4e845225-8b99-4d3e-a98e-c4f82e80048d",
+            "desc": "Atlanta",
+            "price": "200.82",
+            "tradeValue": "50.20",
+            "tiles": 4,
+            "loc": {
+                "long": "-84.396629",
+                "lat": "33.768231",
+                "location": "Atlanta, Georgia, United States"
+            }
+        },
+        "cf679ef6-33df-4e54-b488-5be8ebe9fd6a": {
+            "id": "cf679ef6-33df-4e54-b488-5be8ebe9fd6a",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/cf679ef6-33df-4e54-b488-5be8ebe9fd6a.jpg",
+            "link": "#propertyInfo/cf679ef6-33df-4e54-b488-5be8ebe9fd6a",
+            "desc": "São Félix Do Xingu",
+            "price": "66.80",
+            "tradeValue": "3.18",
+            "tiles": 21,
+            "loc": {
+                "long": "-51.610508",
+                "lat": "-9.593049",
+                "location": "São Félix Do Xingu, Pará, Brazil"
+            }
+        },
+        "36dce6fc-5dc1-4b94-8b76-5c5332f8eab2": {
+            "id": "36dce6fc-5dc1-4b94-8b76-5c5332f8eab2",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/36dce6fc-5dc1-4b94-8b76-5c5332f8eab2.jpg",
+            "link": "#propertyInfo/36dce6fc-5dc1-4b94-8b76-5c5332f8eab2",
+            "desc": "São Félix Do Xingu",
+            "price": "168.59",
+            "tradeValue": "3.18",
+            "tiles": 53,
+            "loc": {
+                "long": "-51.612912",
+                "lat": "-9.593218",
+                "location": "São Félix Do Xingu, Pará, Brazil"
+            }
+        },
+        "dc32366a-cfc4-4076-b1c6-1f05b1eaf557": {
+            "id": "dc32366a-cfc4-4076-b1c6-1f05b1eaf557",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/dc32366a-cfc4-4076-b1c6-1f05b1eaf557.jpg",
+            "link": "#propertyInfo/dc32366a-cfc4-4076-b1c6-1f05b1eaf557",
+            "desc": "São Félix Do Xingu",
+            "price": "419.89",
+            "tradeValue": "3.18",
+            "tiles": 132,
+            "loc": {
+                "long": "-51.613683",
+                "lat": "-9.589918",
+                "location": "São Félix Do Xingu, Pará, Brazil"
+            }
+        },
+        "a61bd425-2354-48a2-9b91-58f6d7289e8c": {
+            "id": "a61bd425-2354-48a2-9b91-58f6d7289e8c",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/a61bd425-2354-48a2-9b91-58f6d7289e8c.jpg",
+            "link": "#propertyInfo/a61bd425-2354-48a2-9b91-58f6d7289e8c",
+            "desc": "Vadhana",
+            "price": "13.65",
+            "tradeValue": "2.73",
+            "tiles": 5,
+            "loc": {
+                "long": "100.563011",
+                "lat": "13.737217",
+                "location": "Vadhana, Bangkok, Bangkok, Thailand"
+            }
+        },
+        "b84cd228-effe-4a9d-84e1-446714ff2f8b": {
+            "id": "b84cd228-effe-4a9d-84e1-446714ff2f8b",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/b84cd228-effe-4a9d-84e1-446714ff2f8b.jpg",
+            "link": "#propertyInfo/b84cd228-effe-4a9d-84e1-446714ff2f8b",
+            "desc": "Khlong Toei",
+            "price": "144.69",
+            "tradeValue": "2.73",
+            "tiles": 53,
+            "loc": {
+                "long": "100.562153",
+                "lat": "13.735966",
+                "location": "Khlong Toei, Bangkok, Bangkok, Thailand"
+            }
+        },
+        "0b1fb8c2-4b5b-4eb6-8e65-d65c52d7687b": {
+            "id": "0b1fb8c2-4b5b-4eb6-8e65-d65c52d7687b",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/0b1fb8c2-4b5b-4eb6-8e65-d65c52d7687b.jpg",
+            "link": "#propertyInfo/0b1fb8c2-4b5b-4eb6-8e65-d65c52d7687b",
+            "desc": "Melbourne",
+            "price": "492.56",
+            "tradeValue": "10.48",
+            "tiles": 47,
+            "loc": {
+                "long": "144.963313",
+                "lat": "-37.816972",
+                "location": "Melbourne, Victoria, Australia"
+            }
+        },
+        "fafc4fde-636b-4c34-b7ae-d22b7a704ea9": {
+            "id": "fafc4fde-636b-4c34-b7ae-d22b7a704ea9",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/fafc4fde-636b-4c34-b7ae-d22b7a704ea9.jpg",
+            "link": "#propertyInfo/fafc4fde-636b-4c34-b7ae-d22b7a704ea9",
+            "desc": "信義",
+            "price": "12.34",
+            "tradeValue": "1.37",
+            "tiles": 9,
+            "loc": {
+                "long": "120.542765",
+                "lat": "23.711103",
+                "location": "信義, 斗六市, Yunlin, Taiwan"
+            }
+        },
+        "e7c688df-491c-4eee-bc22-960977ce14c5": {
+            "id": "e7c688df-491c-4eee-bc22-960977ce14c5",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/e7c688df-491c-4eee-bc22-960977ce14c5.jpg",
+            "link": "#propertyInfo/e7c688df-491c-4eee-bc22-960977ce14c5",
+            "desc": "Pathumwan",
+            "price": "5.46",
+            "tradeValue": "2.73",
+            "tiles": 2,
+            "loc": {
+                "long": "100.535803",
+                "lat": "13.748223",
+                "location": "Pathumwan, Bangkok, Bangkok, Thailand"
+            }
+        },
+        "f64ec076-4f4a-415b-a786-0ece88e95a44": {
+            "id": "f64ec076-4f4a-415b-a786-0ece88e95a44",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/f64ec076-4f4a-415b-a786-0ece88e95a44.jpg",
+            "link": "#propertyInfo/f64ec076-4f4a-415b-a786-0ece88e95a44",
+            "desc": "Pudong Xinqu",
+            "price": "13.10",
+            "tradeValue": "6.55",
+            "tiles": 2,
+            "loc": {
+                "long": "121.49909",
+                "lat": "31.240105",
+                "location": "Pudong Xinqu, Shanghai Shi, China"
+            }
+        },
+        "e7c9bb42-411e-4d15-b4f2-b803847c7f3c": {
+            "id": "e7c9bb42-411e-4d15-b4f2-b803847c7f3c",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/e7c9bb42-411e-4d15-b4f2-b803847c7f3c.jpg",
+            "link": "#propertyInfo/e7c9bb42-411e-4d15-b4f2-b803847c7f3c",
+            "desc": "Vadhana",
+            "price": "19.11",
+            "tradeValue": "2.73",
+            "tiles": 7,
+            "loc": {
+                "long": "100.581637",
+                "lat": "13.731381",
+                "location": "Vadhana, Bangkok, Bangkok, Thailand"
+            }
+        },
+        "505a9a0b-64ed-4888-a8dc-2eabf4ebb21a": {
+            "id": "505a9a0b-64ed-4888-a8dc-2eabf4ebb21a",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/505a9a0b-64ed-4888-a8dc-2eabf4ebb21a.jpg",
+            "link": "#propertyInfo/505a9a0b-64ed-4888-a8dc-2eabf4ebb21a",
+            "desc": "Din Daeng",
+            "price": "2.73",
+            "tradeValue": "2.73",
+            "tiles": 1,
+            "loc": {
+                "long": "100.573311",
+                "lat": "13.778568",
+                "location": "Din Daeng, Bangkok, Bangkok, Thailand"
+            }
+        },
+        "93ef129e-67c4-4c19-a917-e0b4a6d9c23c": {
+            "id": "93ef129e-67c4-4c19-a917-e0b4a6d9c23c",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/93ef129e-67c4-4c19-a917-e0b4a6d9c23c.jpg",
+            "link": "#propertyInfo/93ef129e-67c4-4c19-a917-e0b4a6d9c23c",
+            "desc": "Din Daeng",
+            "price": "210.21",
+            "tradeValue": "2.73",
+            "tiles": 77,
+            "loc": {
+                "long": "100.565242",
+                "lat": "13.757727",
+                "location": "Din Daeng, Bangkok, Bangkok, Thailand"
+            }
+        },
+        "435161e0-5c5c-41f3-8862-99a285c459c4": {
+            "id": "435161e0-5c5c-41f3-8862-99a285c459c4",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/435161e0-5c5c-41f3-8862-99a285c459c4.jpg",
+            "link": "#propertyInfo/435161e0-5c5c-41f3-8862-99a285c459c4",
+            "desc": "Thanyaburi",
+            "price": "171.99",
+            "tradeValue": "2.73",
+            "tiles": 63,
+            "loc": {
+                "long": "100.616827",
+                "lat": "13.988708",
+                "location": "Thanyaburi, Pathum Thani, Thailand"
+            }
+        },
+        "a10f99d7-b4de-48b0-a95e-91c175ab10c3": {
+            "id": "a10f99d7-b4de-48b0-a95e-91c175ab10c3",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/a10f99d7-b4de-48b0-a95e-91c175ab10c3.jpg",
+            "link": "#propertyInfo/a10f99d7-b4de-48b0-a95e-91c175ab10c3",
+            "desc": "Thai Mueang",
+            "price": "46.41",
+            "tradeValue": "2.73",
+            "tiles": 17,
+            "loc": {
+                "long": "97.637129",
+                "lat": "8.571261",
+                "location": "Thai Mueang, Phang Nga, Thailand"
+            }
+        },
+        "365a94d9-68a5-4f4a-a87b-36e61709f111": {
+            "id": "365a94d9-68a5-4f4a-a87b-36e61709f111",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/365a94d9-68a5-4f4a-a87b-36e61709f111.jpg",
+            "link": "#propertyInfo/365a94d9-68a5-4f4a-a87b-36e61709f111",
+            "desc": "Surat Thani",
+            "price": "374.01",
+            "tradeValue": "2.73",
+            "tiles": 137,
+            "loc": {
+                "long": "100.005713",
+                "lat": "9.788742",
+                "location": "Surat Thani, Thailand"
+            }
+        },
+        "6a4ba5c2-b965-49cd-af63-3a3be1306257": {
+            "id": "6a4ba5c2-b965-49cd-af63-3a3be1306257",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/6a4ba5c2-b965-49cd-af63-3a3be1306257.jpg",
+            "link": "#propertyInfo/6a4ba5c2-b965-49cd-af63-3a3be1306257",
+            "desc": "Mueang Krabi",
+            "price": "30.03",
+            "tradeValue": "2.73",
+            "tiles": 11,
+            "loc": {
+                "long": "98.767089",
+                "lat": "7.675268",
+                "location": "Mueang Krabi, Krabi, Thailand"
+            }
+        },
+        "6b72d2af-bdca-4805-bfc2-b810dc59efc1": {
+            "id": "6b72d2af-bdca-4805-bfc2-b810dc59efc1",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/6b72d2af-bdca-4805-bfc2-b810dc59efc1.jpg",
+            "link": "#propertyInfo/6b72d2af-bdca-4805-bfc2-b810dc59efc1",
+            "desc": "Pom Prap Sattru Phai",
+            "price": "109.20",
+            "tradeValue": "2.73",
+            "tiles": 40,
+            "loc": {
+                "long": "100.507993",
+                "lat": "13.753975",
+                "location": "Pom Prap Sattru Phai, Bangkok, Bangkok, Thailand"
+            }
+        },
+        "7dbac9ff-ab3d-4eb3-9a0c-fc9907c899a5": {
+            "id": "7dbac9ff-ab3d-4eb3-9a0c-fc9907c899a5",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/7dbac9ff-ab3d-4eb3-9a0c-fc9907c899a5.jpg",
+            "link": "#propertyInfo/7dbac9ff-ab3d-4eb3-9a0c-fc9907c899a5",
+            "desc": "Phra Nakhon",
+            "price": "161.07",
+            "tradeValue": "2.73",
+            "tiles": 59,
+            "loc": {
+                "long": "100.49263",
+                "lat": "13.746555",
+                "location": "Phra Nakhon, Bangkok, Bangkok, Thailand"
+            }
+        },
+        "3a732072-633a-409b-a25c-b6a79a54fd88": {
+            "id": "3a732072-633a-409b-a25c-b6a79a54fd88",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/3a732072-633a-409b-a25c-b6a79a54fd88.jpg",
+            "link": "#propertyInfo/3a732072-633a-409b-a25c-b6a79a54fd88",
+            "desc": "Vincent Square",
+            "price": "37.18",
+            "tradeValue": "12.39",
+            "tiles": 3,
+            "loc": {
+                "long": "-0.128317",
+                "lat": "51.488224",
+                "location": "Vincent Square, London, Greater London, England, United Kingdom"
+            }
+        },
+        "9bec75cf-bc8b-4503-b8f0-aa7820cd7cd8": {
+            "id": "9bec75cf-bc8b-4503-b8f0-aa7820cd7cd8",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/9bec75cf-bc8b-4503-b8f0-aa7820cd7cd8.jpg",
+            "link": "#propertyInfo/9bec75cf-bc8b-4503-b8f0-aa7820cd7cd8",
+            "desc": "St. James's",
+            "price": "495.76",
+            "tradeValue": "12.39",
+            "tiles": 40,
+            "loc": {
+                "long": "-0.12351",
+                "lat": "51.494584",
+                "location": "St. James's, London, Greater London, England, United Kingdom"
+            }
+        },
+        "714bb32c-ecbf-4ff2-9e50-d9a82c230800": {
+            "id": "714bb32c-ecbf-4ff2-9e50-d9a82c230800",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/714bb32c-ecbf-4ff2-9e50-d9a82c230800.jpg",
+            "link": "#propertyInfo/714bb32c-ecbf-4ff2-9e50-d9a82c230800",
+            "desc": "Knightsbridge",
+            "price": "210.70",
+            "tradeValue": "12.39",
+            "tiles": 17,
+            "loc": {
+                "long": "-0.151749",
+                "lat": "51.503453",
+                "location": "Knightsbridge, London, Greater London, England, United Kingdom"
+            }
+        },
+        "241184fb-3929-4287-a336-1772433ddd1a": {
+            "id": "241184fb-3929-4287-a336-1772433ddd1a",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/241184fb-3929-4287-a336-1772433ddd1a.jpg",
+            "link": "#propertyInfo/241184fb-3929-4287-a336-1772433ddd1a",
+            "desc": "Knightsbridge",
+            "price": "86.76",
+            "tradeValue": "12.39",
+            "tiles": 7,
+            "loc": {
+                "long": "-0.152349",
+                "lat": "51.501744",
+                "location": "Knightsbridge, London, Greater London, England, United Kingdom"
+            }
+        },
+        "6ab6251c-b8b9-435d-b359-347a68a432f0": {
+            "id": "6ab6251c-b8b9-435d-b359-347a68a432f0",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/6ab6251c-b8b9-435d-b359-347a68a432f0.jpg",
+            "link": "#propertyInfo/6ab6251c-b8b9-435d-b359-347a68a432f0",
+            "desc": "Chatuchak",
+            "price": "152.88",
+            "tradeValue": "2.73",
+            "tiles": 56,
+            "loc": {
+                "long": "100.550566",
+                "lat": "13.80024",
+                "location": "Chatuchak, Bangkok, Bangkok, Thailand"
+            }
+        },
+        "8dd80418-4e6e-444d-82a7-b8dad3780493": {
+            "id": "8dd80418-4e6e-444d-82a7-b8dad3780493",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/8dd80418-4e6e-444d-82a7-b8dad3780493.jpg",
+            "link": "#propertyInfo/8dd80418-4e6e-444d-82a7-b8dad3780493",
+            "desc": "Din Daeng",
+            "price": "166.53",
+            "tradeValue": "2.73",
+            "tiles": 61,
+            "loc": {
+                "long": "100.568332",
+                "lat": "13.767231",
+                "location": "Din Daeng, Bangkok, Bangkok, Thailand"
+            }
+        },
+        "fe5625d4-620c-45b9-90ea-abce5efffea3": {
+            "id": "fe5625d4-620c-45b9-90ea-abce5efffea3",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/fe5625d4-620c-45b9-90ea-abce5efffea3.jpg",
+            "link": "#propertyInfo/fe5625d4-620c-45b9-90ea-abce5efffea3",
+            "desc": "Khlong Toei",
+            "price": "27.30",
+            "tradeValue": "2.73",
+            "tiles": 10,
+            "loc": {
+                "long": "100.561209",
+                "lat": "13.7363",
+                "location": "Khlong Toei, Bangkok, Bangkok, Thailand"
+            }
+        },
+        "9503cfe4-0208-46ce-9a5c-21d8c0136dc4": {
+            "id": "9503cfe4-0208-46ce-9a5c-21d8c0136dc4",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/9503cfe4-0208-46ce-9a5c-21d8c0136dc4.jpg",
+            "link": "#propertyInfo/9503cfe4-0208-46ce-9a5c-21d8c0136dc4",
+            "desc": "Vadhana",
+            "price": "122.85",
+            "tradeValue": "2.73",
+            "tiles": 45,
+            "loc": {
+                "long": "100.556316",
+                "lat": "13.74272",
+                "location": "Vadhana, Bangkok, Bangkok, Thailand"
+            }
+        },
+        "4f89d77a-1940-43d7-9ecf-02b41dcfab00": {
+            "id": "4f89d77a-1940-43d7-9ecf-02b41dcfab00",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/4f89d77a-1940-43d7-9ecf-02b41dcfab00.jpg",
+            "link": "#propertyInfo/4f89d77a-1940-43d7-9ecf-02b41dcfab00",
+            "desc": "Vadhana",
+            "price": "38.22",
+            "tradeValue": "2.73",
+            "tiles": 14,
+            "loc": {
+                "long": "100.560179",
+                "lat": "13.738218",
+                "location": "Vadhana, Bangkok, Bangkok, Thailand"
+            }
+        },
+        "9cdff8a1-fdfb-466f-8a44-dec1de66fd35": {
+            "id": "9cdff8a1-fdfb-466f-8a44-dec1de66fd35",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/9cdff8a1-fdfb-466f-8a44-dec1de66fd35.jpg",
+            "link": "#propertyInfo/9cdff8a1-fdfb-466f-8a44-dec1de66fd35",
+            "desc": "Pattaya",
+            "price": "101.01",
+            "tradeValue": "2.73",
+            "tiles": 37,
+            "loc": {
+                "long": "100.878096",
+                "lat": "12.930451",
+                "location": "Pattaya, Chon Buri, Thailand"
+            }
+        },
+        "a62eeefc-38a3-4d0f-9167-7ed11d5c98f8": {
+            "id": "a62eeefc-38a3-4d0f-9167-7ed11d5c98f8",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/a62eeefc-38a3-4d0f-9167-7ed11d5c98f8.jpg",
+            "link": "#propertyInfo/a62eeefc-38a3-4d0f-9167-7ed11d5c98f8",
+            "desc": "Ratchathewi",
+            "price": "101.01",
+            "tradeValue": "2.73",
+            "tiles": 37,
+            "loc": {
+                "long": "100.538721",
+                "lat": "13.750557",
+                "location": "Ratchathewi, Bangkok, Bangkok, Thailand"
+            }
+        },
+        "ee159e36-4c92-4a7b-841a-bfca38da922e": {
+            "id": "ee159e36-4c92-4a7b-841a-bfca38da922e",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/ee159e36-4c92-4a7b-841a-bfca38da922e.jpg",
+            "link": "#propertyInfo/ee159e36-4c92-4a7b-841a-bfca38da922e",
+            "desc": "Central world",
+            "price": "431.34",
+            "tradeValue": "2.73",
+            "tiles": 158,
+            "loc": {
+                "long": "100.539494",
+                "lat": "13.746555",
+                "location": "Pathumwan, Bangkok, Bangkok, Thailand"
+            }
+        },
+        "613c8db9-341f-4f6d-ae70-633e83cd68a5": {
+            "id": "613c8db9-341f-4f6d-ae70-633e83cd68a5",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/613c8db9-341f-4f6d-ae70-633e83cd68a5.jpg",
+            "link": "#propertyInfo/613c8db9-341f-4f6d-ae70-633e83cd68a5",
+            "desc": "Dongcheng Qu",
+            "price": "759.57",
+            "tradeValue": "6.55",
+            "tiles": 116,
+            "loc": {
+                "long": "116.398516",
+                "lat": "39.904206",
+                "location": "Dongcheng Qu, Beijing Shi, China"
+            }
+        },
+        "ba216392-c294-410f-8f3c-975116275780": {
+            "id": "ba216392-c294-410f-8f3c-975116275780",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/ba216392-c294-410f-8f3c-975116275780.jpg",
+            "link": "#propertyInfo/ba216392-c294-410f-8f3c-975116275780",
+            "desc": "Mueang Chiang Mai",
+            "price": "90.09",
+            "tradeValue": "2.73",
+            "tiles": 33,
+            "loc": {
+                "long": "98.967419",
+                "lat": "18.802481",
+                "location": "Mueang Chiang Mai, Chiang Mai, Thailand"
+            }
+        },
+        "4b1c86df-6904-4b6c-b9ab-b4d4a1e7069a": {
+            "id": "4b1c86df-6904-4b6c-b9ab-b4d4a1e7069a",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/4b1c86df-6904-4b6c-b9ab-b4d4a1e7069a.jpg",
+            "link": "#propertyInfo/4b1c86df-6904-4b6c-b9ab-b4d4a1e7069a",
+            "desc": "Pathumwan",
+            "price": "109.20",
+            "tradeValue": "2.73",
+            "tiles": 40,
+            "loc": {
+                "long": "100.535117",
+                "lat": "13.746805",
+                "location": "Pathumwan, Bangkok, Bangkok, Thailand"
+            }
+        },
+        "d2ceb8af-ad0f-4579-9159-44f4188c4627": {
+            "id": "d2ceb8af-ad0f-4579-9159-44f4188c4627",
+            "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/d2ceb8af-ad0f-4579-9159-44f4188c4627.jpg",
+            "link": "#propertyInfo/d2ceb8af-ad0f-4579-9159-44f4188c4627",
+            "desc": "Vadhana",
+            "price": "308.49",
+            "tradeValue": "2.73",
+            "tiles": 113,
+            "loc": {
+                "long": "100.568504",
+                "lat": "13.73088",
+                "location": "Vadhana, Bangkok, Bangkok, Thailand"
+            }
+        }
+    },
+    "info": {
+        "avatar": "https://s3-ap-southeast-2.amazonaws.com/prod-app-media.earth2.io/thumbnails/f108dd87-0202-41b4-99b6-b075323f68ea_avatar_31b2e358-e13a-4824-aacc-027ccd507d82.svgxml",
+        "alias": "TheGuy",
+        "owns": 116,
+        "tiles": 4269,
+        "networth": 10895.71,
+        "netProfit": 9556.66,
+        "netProfitPercent": 713.69
+    }
+}

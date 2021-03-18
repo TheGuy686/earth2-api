@@ -1,0 +1,20 @@
+{
+  "name": "earth-2-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -e js --exec 'node server.js'",
+    "run-online": "ngrok http --region=ap 3000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-html-parser": "^3.0.4",
+    "puppeteer": "^8.0.0"
+  },
+  "devDependencies": {
+    "shelljs": "^0.8.4"
+  }
+}
